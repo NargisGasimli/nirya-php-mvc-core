@@ -1,7 +1,7 @@
 <?php
 
-namespace app\core\form;
-use app\core\Model;
+namespace Nirya\PhpMvcCore\\form;
+use Nirya\PhpMvcCore\\Model;
 
 abstract class BaseField{
     abstract public function renderInput():string;
