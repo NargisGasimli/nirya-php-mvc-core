@@ -1,7 +1,7 @@
 <?php
 
-namespace Nirya\PhpMvcCore\\form;
-use Nirya\PhpMvcCore\\Model;
+namespace Nirya\PhpMvcCore\form;
+use Nirya\PhpMvcCore\Model;
 
 class InputField extends BaseField{
     public const TYPE_TEXT = 'text';

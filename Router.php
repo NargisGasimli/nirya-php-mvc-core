@@ -1,7 +1,7 @@
 <?php
 
-namespace Nirya\PhpMvcCore\;
-use Nirya\PhpMvcCore\\exception\NotFoundException;
+namespace Nirya\PhpMvcCore\\;
+use Nirya\PhpMvcCore\exception\NotFoundException;
 
 class Router{
 
@@ -37,7 +37,7 @@ class Router{
   
         if (is_array($callback)) {
             /**
-             * @var \Nirya\PhpMvcCore\\Controller $controller
+             * @var \Nirya\PhpMvcCore\Controller $controller
              */
 
 

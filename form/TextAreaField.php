@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Nirya\PhpMvcCore\\form;
+namespace Nirya\PhpMvcCore\form;
 
 class TextAreaField extends BaseField {
     public function renderInput():string

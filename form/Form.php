@@ -1,9 +1,9 @@
 <?php
 
-namespace Nirya\PhpMvcCore\\form;
+namespace Nirya\PhpMvcCore\form;
 
-use Nirya\PhpMvcCore\\form\Field;
-use Nirya\PhpMvcCore\\Model;
+use Nirya\PhpMvcCore\form\Field;
+use Nirya\PhpMvcCore\Model;
 
 class Form{
     public static function begin($url, $method){

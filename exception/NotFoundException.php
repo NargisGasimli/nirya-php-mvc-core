@@ -1,6 +1,6 @@
 <?php
 
-namespace Nirya\PhpMvcCore\\exception;
+namespace Nirya\PhpMvcCore\exception;
 
 
 class NotFoundException extends \Exception {

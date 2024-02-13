@@ -1,10 +1,10 @@
 <?php
 
-namespace Nirya\PhpMvcCore\;
+namespace Nirya\PhpMvcCore\\;
 
-use Nirya\PhpMvcCore\\Session;
-use Nirya\PhpMvcCore\\db\Database;
-use Nirya\PhpMvcCore\\db\DbModel;
+use Nirya\PhpMvcCore\Session;
+use Nirya\PhpMvcCore\db\Database;
+use Nirya\PhpMvcCore\db\DbModel;
 
 class Application{
     public string $userClass;

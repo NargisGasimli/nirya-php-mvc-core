@@ -1,12 +1,12 @@
 <?php
 
-namespace Nirya\PhpMvcCore\;
+namespace Nirya\PhpMvcCore\\;
 
-use Nirya\PhpMvcCore\\middlewares\BaseMiddleWare;
+use Nirya\PhpMvcCore\middlewares\BaseMiddleWare;
 
 Class Controller{
 /**
- * @var \Nirya\PhpMvcCore\\middlewares\BaseMiddleWares[]
+ * @var \Nirya\PhpMvcCore\middlewares\BaseMiddleWares[]
  */
     public array $middlewares = [];
     public $layout = 'main';

@@ -1,8 +1,8 @@
 <?php
 
-namespace Nirya\PhpMvcCore\\db;
-use Nirya\PhpMvcCore\\Model;
-use Nirya\PhpMvcCore\\Application;
+namespace Nirya\PhpMvcCore\db;
+use Nirya\PhpMvcCore\Model;
+use Nirya\PhpMvcCore\Application;
 
 
 abstract class DbModel extends Model{

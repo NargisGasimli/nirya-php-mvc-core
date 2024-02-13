@@ -1,7 +1,7 @@
 <?php
 
-namespace Nirya\PhpMvcCore\\db;
-use Nirya\PhpMvcCore\\Application;
+namespace Nirya\PhpMvcCore\db;
+use Nirya\PhpMvcCore\Application;
 
 class Database{
 
