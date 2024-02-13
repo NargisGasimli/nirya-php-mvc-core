@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Nirya\PhpMvcCore\; 
+namespace Nirya\PhpMvcCore; 
 
 class Session{
 

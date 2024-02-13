@@ -1,6 +1,6 @@
 <?php
 
-namespace Nirya\PhpMvcCore\;
+namespace Nirya\PhpMvcCore;
 use Nirya\PhpMvcCore\db\DbModel;
 
 abstract class UserModel extends DbModel {
